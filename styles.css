@@ -18,5 +18,12 @@ body
 	background-color:#2ecc71;
 	text-align:center;
 }
+img
+{
+	display:flex;
+	aling-item:flex-center;
+	justify-content:center;
+	padding:10px
+}
 
 	
