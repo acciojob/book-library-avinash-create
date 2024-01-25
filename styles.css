@@ -7,9 +7,10 @@ h1 {
 }
 
 .price {
-  background-color: #2ecc71;
-  text-align: center;
-	color: rgb(255,255,255);
+ background-color: rgb(46, 204, 113);
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+	text-align:center
 }
 
 .book img {
@@ -20,5 +21,5 @@ h1 {
 }
 
 .author{
-    color: #777777;
+    color: rgb(119, 119, 119);
 }
